@@ -1,0 +1,135 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The cry of blood; or, the horrid sin of murther display'd. In the true relation of three several murthers committed within the compass of one week viz. of Capt. Campbell on the 4th. Mr. - a beadle in the Strand, on the 6th. and of Mr. Baker, commonly call'd Capt. Baker, on the 7th of this instant Aprill, 1692. With a particular account of the circumstances of each tragical accident.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81108</idno>
+            <idno type="STC">Wing C7449aA</idno>
+            <idno type="STC">ESTC R230228</idno>
+            <idno type="EEBO-CITATION">99896229</idno>
+            <idno type="PROQUEST">99896229</idno>
+            <idno type="VID">153889</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81108)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153889)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2387:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The cry of blood; or, the horrid sin of murther display'd. In the true relation of three several murthers committed within the compass of one week viz. of Capt. Campbell on the 4th. Mr. - a beadle in the Strand, on the 6th. and of Mr. Baker, commonly call'd Capt. Baker, on the 7th of this instant Aprill, 1692. With a particular account of the circumstances of each tragical accident.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed for Randal Taylor, near Stationers-Hall,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Murder --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:153889:1" rendition="simple:additions"/>
+            <head>
+               <hi>The Cry of Blood:</hi> OR, THE Horrid Sin of Murther DISPLAY'D.</head>
+            <head type="sub">In the true Relation of three ſeveral <hi>Murthers</hi> Committed within the compaſs of one Week, <hi>viz.</hi> of Capt. <hi>Campbell</hi> on the 4th. Mr. — a <hi>Beadle</hi> in the <hi>Strand,</hi> on the 6th. And of Mr. <hi>Baker,</hi> commonly call'd Capt. <hi>Baker,</hi> on the 7th of this inſtant <hi>Aprill,</hi> 1692. With a particular <hi>Account</hi> of the Circumſtances of each <hi>Tragical Accident.</hi>
+            </head>
+            <p>NOT to trouble the Reader with a Long Preface (which would be as prepoſterous as to make a very Large Door to a Little Houſe), it is readily confeſt on all Hands, That amongſt all the Sins which cor<g ref="char:EOLhyphen"/>rupt humane Nature is ready to commit, there is none has ſo deep a Tincture of Guilt as <hi>Murther:</hi> And the Providence of God has not Exerted it ſelf more powerfully in any thing, than in the frequent and unexpected Diſcovery of <hi>Marthers,</hi> when the Actors of that horrid Crime have thought themſelves moſt ſecure; yet though ſeveral <hi>Murthers</hi> of late, are not as yet, and perhaps never will be Diſcovered, undoubtedly the Perſons who committed them, find a <hi>Hell</hi> in their own Minds, the <hi>Stings of Conſcience</hi> being equally as terri<g ref="char:EOLhyphen"/>ble as the Looks of an <hi>Executioner.</hi> But leaving ſuch Bloody Wretches to the Tor<g ref="char:EOLhyphen"/>ments of their own Thoughts, it may juſtly be our Wonder and Surprize, that in a Kingdom Govern'd by ſuch Good Laws, and in a City Remarkable all over the World, for its Civility and good Diſcipline, <hi>Murthers</hi> ſhould yet be ſo frequent. But <hi>Paſſion, Humour, Interest,</hi> and <hi>Falſe Notions of Honour,</hi> having blinded the Judg<g ref="char:EOLhyphen"/>ment, no wonder Men run head-long into Ruine and Deſtruction. The Truth of which take in theſe Three following Relations.</p>
+            <p>There are Two very Current, and confidently reported Stories of the Occaſion of the Death of the Unfortunate Capt. <hi>Campbell;</hi> One is, That diverting himſelf on <hi>Saturday,</hi> the Second of this Month, at the <hi>Tenniſcourt,</hi> Mr. <hi>Thornicraft,</hi> a Gentle<g ref="char:EOLhyphen"/>man, late of the <hi>Curſitors Office</hi> in <hi>Chancery-Lane,</hi> came in as a Spectator, being very Richly habited (as he always dreſtout of the common Rode), and in obſerving the Play, Capt. <hi>Campbell,</hi> more than Once or Twice, call'd him, <hi>My Lord</hi> (ſuppoſing him no leſs), which Mr. <hi>Thornicraft</hi> Reſenting as an Affront, told him, <hi>That he might as well call him</hi> Squire; <hi>for he was no</hi> Lord, <hi>nor did he pretend to be any.</hi> But Capt. <hi>Campbell,</hi> whether Deſignedly, or through Inadvertency, ſeveral times after call'd him; <hi>My Lord,</hi> which provoked him ſo far, that he ſtruck the <hi>Captain</hi> with his Cane; upon which Swords were drawn on both ſides, but parted by the Company, a Challenge followed, and in the Duel, on <hi>Monday</hi> Morning, the <hi>Captain</hi> was unhappily Killed. Others again relate it thus, and it ſeems much more probable, That Mr. <hi>Thornicraft</hi> Drinking with Capt. <hi>Campbell,</hi> and ſeveral other <hi>Gentlemen,</hi> at a Tavern at <hi>Charing-Croſs,</hi> when the Reckoning was called for, each <hi>Gentleman</hi> throwing down his <hi>Clubh,</hi> there happened to be a Braſs Shilling in the Sum, which was returned; Each <hi>Gentle<g ref="char:EOLhyphen"/>man</hi> in the Company flatly denied it to be his, till at laſt Capt. <hi>Campbell</hi> fixt it very pe<g ref="char:EOLhyphen"/>remptorily upon Mr. <hi>Thornicraft;</hi> which he Reſenting as a very great Affront, that he ſhould be thought to put off Braſs-Money, Challenged the <hi>Captain,</hi> Fought him, and Killed him.</p>
+            <pb n="2" facs="tcp:153889:2"/>
+            <p>Whatever the Provocation was, certain it is, That on <hi>Monday,</hi> the <hi>4th</hi> of this Month, they met at the <hi>Duke of</hi> Ormond<hi>'s Head</hi> in the <hi>Hay-Market,</hi> where they drank a Pint of <hi>Young-Hock,</hi> and eat a Diſh of <hi>Soop</hi> together, which while they were doing, a third Perſon, Capt. <hi>Campbell</hi>'s Friend came in; but after a little time they took Coach, and drove to <hi>Hide-Park-Corner,</hi> and there alighted. As they walked along the Park (the <hi>Captain</hi> having before aſſured Mr. <hi>Thornicraft,</hi> that his Friend was not deſigned as his Second), this third Perſon endeavoured to moderate the Matter, and that he would expend a Round Sum of Money, rather than either of them ſhould hazard their Lives about a <hi>Braſs-Shilling,</hi> but Mr. <hi>Thornicraft</hi> was deaf to all the <hi>Gentleman</hi> could ſay, ſwearing, <hi>He would not be piſt upon for a Coward, but fight he would.</hi> To a con<g ref="char:EOLhyphen"/>venient Place they came, both Drew, and after Two or Three Paſſes, the <hi>Captain</hi> dropt; and Mr. <hi>Thornicraft</hi> asking the <hi>Gentleman, Whether he would with his Sword revenge his Deceaſed Friend's Blood?</hi> Which he declining, Mr. <hi>Thornicraft,</hi> with all ſpeed poſſi<g ref="char:EOLhyphen"/>ble, leapt over the Pales, and is ſuppoſed to be gone directly for <hi>Flanders.</hi>
+            </p>
+            <p>The <hi>Second Murther,</hi> which had not ſo much <hi>Gallantry</hi> in it, was thus: Lieutenant <hi>VV—b,</hi> a <hi>Gentleman</hi> belonging to Their Majeſties <hi>Fleet,</hi> with two other <hi>Gentlemen,</hi> having diſpos'd the day to <hi>Mirth,</hi> met at the <hi>Greyhound</hi> in the <hi>Strand,</hi> on <hi>VVedneſday</hi> the 6th of this <hi>Month,</hi> where they <hi>Dined Plentifully</hi> and <hi>Drank very Liberally;</hi> after <hi>Dinner</hi> Mr. <hi>L—d,</hi> their <hi>Landlord,</hi> would needs Preſent them with his <hi>Bottle,</hi> which they would not Accept of unleſs they might <hi>Drink</hi> it in a <hi>Coach;</hi> the Motion was a<g ref="char:EOLhyphen"/>greed to, and <hi>Coach</hi> call'd, into which they all <hi>Entred,</hi> and <hi>Drank</hi> briskly about; but the <hi>Coach-man</hi> being a little <hi>Impertinent</hi> and <hi>Sawcy,</hi> about their <hi>Stay,</hi> Lieutenant <hi>VV—b</hi> leaps out of the <hi>Coach,</hi> and to <hi>Chaſtiſe</hi> the <hi>Fellows Inſolence</hi> gives him a <hi>Cut</hi> or two up<g ref="char:EOLhyphen"/>on the <hi>Head</hi> with his <hi>Sword,</hi> which occaſion'd a <hi>great Tumult</hi> in the <hi>Street;</hi> to <hi>Appeaſe</hi> which <hi>Diſorder,</hi> the <hi>Beadle</hi> of the <hi>Dutchy Liberty</hi> came, endeavouring to <hi>Quiet</hi> the <hi>Diſ<g ref="char:EOLhyphen"/>order</hi> Receiv'd a <hi>Thruſt</hi> quite through the <hi>Body,</hi> of which he <hi>Inſtantly Dyed;</hi> the <hi>Lieute<g ref="char:EOLhyphen"/>nant</hi> and his two <hi>Friends</hi> were carried before a <hi>Juſtice of Peace,</hi> who <hi>Committed</hi> them to <hi>Newgate,</hi> where they are to <hi>Remain</hi> till next <hi>Seſſions.</hi>
+            </p>
+            <p>The <hi>Third Murther</hi> was Committed the very next day, being <hi>Thurſday,</hi> the 7th of this Inſtant <hi>April;</hi> the Manner take as followeth. One Mr. <hi>Baker,</hi> by ſome called <hi>Captain Baker,</hi> by others <hi>Bully Baker,</hi> having paſt through a variety of Good and Bad <hi>Fortunes,</hi> had the Luck about four Years ſince, to Marry a <hi>Widow</hi> of a very good <hi>Eſtate,</hi> with whom he Lived in <hi>Love</hi> and <hi>Decency;</hi> but it ſeems the <hi>Lady</hi> hav<g ref="char:EOLhyphen"/>ing <hi>Diſoblig'd</hi> ſeveral of her <hi>Relations</hi> by this (as they thought ſcandalous) <hi>Match:</hi> About a Year ſince ſome <hi>Law Suits</hi> began to <hi>Commence,</hi> which were <hi>Proſecuted</hi> with that <hi>Violence,</hi> that Mr. <hi>Baker</hi> was forced to <hi>Abſcond</hi> and Live <hi>Incognito.</hi> His laſt Lodgings being in <hi>Channel-row, Weſtminſter;</hi> he having the day above mentioned been <hi>Drinking</hi> pretty hard with a <hi>Gentleman,</hi> his <hi>Son in Law;</hi> about ſeven in the Evening they Landed at <hi>White-Hall Stairs;</hi> at which very inſtant of Time, a <hi>Gen<g ref="char:EOLhyphen"/>tleman</hi> and Two <hi>Ladies</hi> Landed; and in going along Mr: <hi>Baker</hi> made <hi>Love</hi> in a very Rude manner to one of them; the <hi>Gentleman,</hi> their Friend, deſiring him to forbear; but he ſtill perſiſting in his Temper, <hi>Swearing</hi> he would have her from him; the <hi>Gentleman Drew,</hi> and oblig'd Mr. <hi>Baker</hi> to do the like, which he did; and though he underſtood a <hi>Sword</hi> very well, yet his Head not being in right order, after two or three Paſſes, he was run through the <hi>Breaſt,</hi> of which Wound he Immediately <hi>Dyed;</hi> the <hi>Gentleman</hi> who <hi>Kill'd</hi> him, making his Eſcape. His <hi>Body</hi> was Remov'd to the <hi>Sutlers</hi> by the <hi>Horſe-Guard,</hi> and his <hi>Son in Law</hi> detained that Night in the <hi>Porter</hi>'s <hi>Lodg,</hi> he being ſuppoſed to have done the <hi>Murther;</hi> but next Morning the <hi>Coroner</hi> ſitting upon the <hi>Body,</hi> and the <hi>Gentleman</hi> Examin'd of his Knowledg of the Matter, he gave ſome Imperfect Account of a <hi>Quarrel</hi> between his <hi>Father in Law</hi> and a <hi>Gentleman;</hi> and it being proved he had too much Liquor about him at that time to be Guilty of any <hi>Malice,</hi> he was <hi>Diſcharged.</hi>
+            </p>
+            <p>Upon the whole, How reaſonable is that Prayer in the <hi>Church Littany, From Battle, Murther, and Sudden Death, Good Lord Deliver us.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Randal Taylor,</hi> near <hi>Stationers-Hall.</hi> 1692.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
